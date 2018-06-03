@@ -1,4 +1,6 @@
 Presentación Ionic Framework
 =============
 
-[Iniciar una presentación](http://ionicframework.com/present-ionic/slides/)
+[Versión en español de la Original](http://ionicframework.com/present-ionic/slides/)
+
+
